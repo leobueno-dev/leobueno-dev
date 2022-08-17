@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @leobueno-dev
 - 👀 I’m interested in backend e frontend developer, using JS
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 leobueno-dev/leobueno-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
